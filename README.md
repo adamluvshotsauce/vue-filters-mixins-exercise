@@ -1,6 +1,6 @@
-# vue-cli
+# Vue Filters Mixins Exercise
 
-> A Vue.js project
+> An exercise using filters and mixins in Vue.js
 
 ## Build Setup
 
